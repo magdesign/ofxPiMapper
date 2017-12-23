@@ -183,6 +183,7 @@ Key | Function
 c | Show info
 t | Add triangle surface
 q | Add quad surface
+r | Add circular surface
 x | Add hexagon surface
 g | Add grid warp surface
 a | duplicate selected surface
