@@ -29,7 +29,7 @@ https://forum.openframeworks.cc/t/grid-mesh-warping/12883
 (to do)</br>
 Image overlay to making adges transparent, could be achieved with overlaing a png with a black gradient.
 
-### 8. SoftEdge:
+### 8. Sync function:
 (to do)</br>
 New ofxOmxplayer with dBus implementation to get omxplayer-sync working with mapper.
 
