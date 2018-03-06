@@ -1,5 +1,5 @@
 # This fork adds some important functions to PiMapper.
-### 1. Slide show function (implemented in master branch):
+### 1. Slide show function (already implemented kr15h master branch):
 (Done!)
 PiMapper has now a slideshow and plays all images in a folder. There is an integrated directory watcher für updating new added images. Transition and slidetime can be edited via .xml file.
 
