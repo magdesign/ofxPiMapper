@@ -1,36 +1,40 @@
 # This fork adds some important functions to PiMapper.
-### 1. Slide show function (already implemented kr15h master branch):
-(Done!)
+### 1. Slide show function (already implemented kr15h master branch): </br>
+(Done!)</br>
 PiMapper has now a slideshow and plays all images in a folder. There is an integrated directory watcher für updating new added images. Transition and slidetime can be edited via .xml file.
 
 ### 2. Circular shapes for mapping:
-(Done!)
+(Done!)</br>
 Simple Circular mapping shape (more complex version with movable center might come later).
 
 ### 3. Mapping converter:
-(Done!)
+(Done!)</br>
 Convert exported .svg from Mapio and Madmapper to ofxPiMapper.
 Made as a standalone application: https://github.com/magdesign/mapping-converter2
 
 ### 4. Bezier handles:
-(to do)
+(to do)</br>
 Adding bezier handles to masks for better aligment: https://github.com/TsubokuLab/ofxBezierWarpManager
 
 ### 5. Play all videos from a folder:
-(to do)
+(to do)</br>
 This should be a an additional FBO source in PiMapper, looping all videos in /media/internal/video/*
 
 ### 6. Grid Warp (meshing of square shapes):
-(to do)
+(to do)</br>
 check out this http://www.hv-a.com/lpmt/sssm.pdf on page: 10
 https://forum.openframeworks.cc/t/grid-mesh-warping/12883
 
 ### 7. SoftEdge:
-(to do)
+(to do)</br>
 Image overlay to making adges transparent, could be achieved with overlaing a png with a black gradient.
 
-### 7. Color Adjustment:
-(to do)
+### 8. SoftEdge:
+(to do)</br>
+New ofxOmxplayer with dBus implementation to get omxplayer-sync working with mapper.
+
+### 9. Color Adjustment:
+(to do)</br>
 Adjust brightness and contrast.
 
 
